@@ -1,0 +1,11 @@
+<b>Taxes</b>
+
+🟢 Buy: 12%
+   3% LP
+   3% Rewards
+   6% Marketing
+
+🔴 Sell: 14%
+   3% LP
+   5% Rewards
+   6% Marketing

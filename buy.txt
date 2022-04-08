@@ -1,0 +1,11 @@
+<b>Buy $CronoApe</b>
+
+$CronoApe is available on mm.finance on the Cronos Chain.
+
+🌐 https://mm.finance/swap?outputCurrency=0xe2c0eee436ded707daff44c3b34cec2f262f3b94
+
+Contract: `0xe2c0eee436ded707daff44c3b34cec2f262f3b94`
+
+Need help coming bridging from BSC, ETH, etc.
+
+Check out our documentation by clicking on our <b>Bridge To Cronos</b> button.

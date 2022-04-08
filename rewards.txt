@@ -1,0 +1,10 @@
+<b>View My $CRO Rewards</b>
+
+ 1. Go to https://cronoscan.com/
+ 2. Enter your wallet address (select your wallet)
+ 3. Click on Internal Txns tab
+ 4. Any transaction From `0x5e8de2a16a2651556e3f89c4cd993ed3fc92fafa` is a reward from $CRONOAPE in $CRO
+
+Rewards come every couple hours and depend on the volume and are proportional to holdings.
+
+🔥 DAPP COMING SOON

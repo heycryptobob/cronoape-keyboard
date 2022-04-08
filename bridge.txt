@@ -1,0 +1,24 @@
+<b>Bridging from other chains</b>
+
+Here are 4 ways you can bridge your funds from other chains (BSC, ETH, ...) to Cronos.
+
+Multichain.org (https://app.multichain.org/#/router) (Decentralized Bridge)
+🔹 Always check the price impact on the assets you’re going to bridge
+🔹 You can’t bridge CRO, so you won’t have gas to use the chain
+
+Evodefi.com (https://bridge.evodefi.com/) (Decentralized Bridge)
+🔹 Always check the price impact on the assets you’re going to bridge
+🔹 You get 2 CRO (for gas fees)
+
+Elk.finance (https://app.elk.finance/#/elknet) (DEX)
+🔹 You can only bridge $ELK from chain to chain
+🔹 Check the tick to receive gas on Cronos chain
+
+Crypto.com (https://crypto.com/) app (CEX)
+🔹 Deposit your assets on the CDC app
+🔹 Swap into CRO (So that you’ll have some gas to use the chain)
+🔹 Withdraw CRO to Cronos Chain (CRC-20)
+
+Once you have bridged. Head over to mm.finance to purchase $CronoApe.
+
+https://mm.finance/swap?outputCurrency=0xe2c0eee436ded707daff44c3b34cec2f262f3b94
