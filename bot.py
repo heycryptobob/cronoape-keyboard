@@ -62,12 +62,12 @@ if __name__ == "__main__":
     print("Starting up the keyboard...")
     
     TOKEN = environ.get('TOKEN')
-    NAME = environ.get('HEROKU_APP_NAME')
+    NAME = environ.get('APP_NAME')
     PORT = environ.get('PORT')
     ENV = environ.get('PYTHON_ENV')
 
     print("TOKEN: ", TOKEN)
-    print("HEROKU_APP_NAME: ", HEROKU_APP_NAME)
+    print("APP_NAME: ", APP_NAME)
     print("PORT: ", PORT)
     print("ENV: ", PYTHON_ENV)
 
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     if ENV == "production":
         URL = f"https://{NAME}.herokuapp.com/{TOKEN}"
         print("URL: ", URL)
-        
+
         updater.start_webhook(
             listen="0.0.0.0",
             port=int(PORT),
