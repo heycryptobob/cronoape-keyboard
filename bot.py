@@ -48,7 +48,8 @@ def messageHandler(update: Update, context: CallbackContext):
                     context.bot.send_message(
                         chat_id=update.effective_chat.id,
                         text=text,
-                        parse_mode=ParseMode.HTML
+                        parse_mode=ParseMode.HTML,
+                        disable_web_page_preview=True
                     )
                     return
     
