@@ -66,6 +66,11 @@ if __name__ == "__main__":
     PORT = environ.get('PORT')
     ENV = environ.get('PYTHON_ENV')
 
+    print("TOKEN: ", TOKEN)
+    print("HEROKU_APP_NAME: ", HEROKU_APP_NAME)
+    print("PORT: ", PORT)
+    print("ENV: ", PYTHON_ENV)
+
     updater = Updater(token=TOKEN)
     dispatcher = updater.dispatcher
 
@@ -74,11 +79,14 @@ if __name__ == "__main__":
     dispatcher.add_handler(MessageHandler(Filters.status_update.new_chat_members, newChatMember))
 
     if ENV == "production":
+        URL = f"https://{NAME}.herokuapp.com/{TOKEN}"
+        print("URL: ", URL)
+        
         updater.start_webhook(
             listen="0.0.0.0",
             port=int(PORT),
             url_path=TOKEN,
-            webhook_url=f"https://{NAME}.herokuapp.com/{TOKEN}"
+            webhook_url=URL
         )
         updater.idle()
     else:
