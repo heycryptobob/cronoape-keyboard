@@ -69,7 +69,7 @@ if __name__ == "__main__":
     print("TOKEN: ", TOKEN)
     print("APP_NAME: ", APP_NAME)
     print("PORT: ", PORT)
-    print("ENV: ", PYTHON_ENV)
+    print("ENV: ", ENV)
 
     updater = Updater(token=TOKEN)
     dispatcher = updater.dispatcher
