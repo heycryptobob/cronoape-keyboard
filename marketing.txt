@@ -4,10 +4,10 @@ The team understands that raising the token value is important!
 
 Our marketing team is focused on raising awareness on every front.
 
-- Callgroups
-- Influencers
-- Youtubers
-- Partnerships
-- Press
-- Coin listing websites (you know what we are talking about)
-- CEX listings
+🟢 Callgroups
+🟢 Influencers
+🔵 Youtubers
+🔵 Listing on CMC & CG
+🟡 Partnerships
+🟡 Press
+🟡 CEX listings

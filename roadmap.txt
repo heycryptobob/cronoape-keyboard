@@ -1,23 +1,25 @@
 <b>Road to $5M</b>
-- Callgroups
-- Community shilling and raids
-- Twitter influencers
-- Youtubers
-- dApp to view rewards
-- Partnerships (NFTs + we are working on bringing in ETH whales)
-- Listings on CMC + CG
-- 2000 NFTs + Marketplace (6 FT designers on it)
-- mm.finance whitelist
+
+🟢 Callgroups
+🟢 Community shilling and raids
+🟢 Twitter influencers
+🔵 Youtubers
+🔵 dApp to view rewards
+🔵 Partnerships (NFTs + we are working on bringing in ETH whales)
+🔵 Listings on CMC + CG
+🔵 2000 NFTs + Marketplace (6 FT designers on it)
+🔵 mm.finance whitelist
 
 <b>Road to $50M</b>
-- CEX Listing @ $4-5M
-- Other CEX listings from $10M
-- Updated website
-- NFT Partnerships with known crypto.com NFT artists
-- Play2Earn Game
-- Partnership with Crypto.com ambassadors
+🔵 CEX Listing @ $4-5M
+🟡 Other CEX listings from $10M
+🟡 Updated website
+🟡 NFT Partnerships with known crypto.com NFT artists
+🟡 Play2Earn Game
+🟡 Partnership with Crypto.com ambassadors
 
 <b>$50M+</b>
-- Focus on MAJOR CEX listings (Crypto.com, Binance, etc.)
-- Bridge to major chains (ETH, BSC, Polygon, etc.)
-- CronoApeSwap
+🟡 Focus on MAJOR CEX listings (Crypto.com, Binance, etc.)
+🟡 Bridge to major chains (ETH, BSC, Polygon, etc.)
+🟡 CronoApePad
+🟡 CronoApeSwap
