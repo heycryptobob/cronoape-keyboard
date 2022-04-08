@@ -62,7 +62,7 @@ if __name__ == "__main__":
     print("Starting up the keyboard...")
     
     TOKEN = environ.get('TOKEN')
-    NAME = environ.get('APP_NAME')
+    APP_NAME = environ.get('APP_NAME')
     PORT = environ.get('PORT')
     ENV = environ.get('PYTHON_ENV')
 
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     dispatcher.add_handler(MessageHandler(Filters.status_update.new_chat_members, newChatMember))
 
     if ENV == "production":
-        URL = f"https://{NAME}.herokuapp.com/{TOKEN}"
+        URL = f"https://{APP_NAME}.herokuapp.com/{TOKEN}"
         print("URL: ", URL)
 
         updater.start_webhook(
